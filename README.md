@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **as.bouderhem@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QKhtSGUoqscrdpCXTrVkCJ-fZawwlg3p/view?usp=drivesdk](https://drive.google.com/file/d/1QKhtSGUoqscrdpCXTrVkCJ-fZawwlg3p/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
