@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ANASS BOUDERHEM</h1>
 <h3 align="center">A passionate IT student from Morocco</h3>
 
-<img align="center" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"  width="80%" style="display:block; margin:auto;"/>
+<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ2ZWl1a24wZ3U1dTBxdGtobHA2OHMycjlhOTR0eGNoZHNzOGRiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif"  width="80%" style="display:block; margin:auto;"/>
 
 
 ---
