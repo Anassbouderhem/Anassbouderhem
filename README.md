@@ -38,9 +38,6 @@
 
 ---
 
-###  Top Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anassbouderhem&layout=compact&theme=tokyonight" width="400"/>
-</p>
+
 
 ---
